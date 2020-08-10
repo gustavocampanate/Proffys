@@ -1,0 +1,31 @@
+npm run dev
+
+<!--
+<!DOCTYPE html>
+<html> < isso é uma tag HTML-->
+<!--
+<head>
+
+    Configurações do meu documento.
+
+</head>
+<body>
+    Todo conteúdo visível na página, deverá vir na tag body
+</body>
+
+    
+        HTML
+
+        HyperText
+            Hipertexto
+            <a>
+
+        Markup
+            Marcação
+
+        Language
+            Linguagem
+    
+    
+</html>
+-->
